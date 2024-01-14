@@ -21,7 +21,7 @@ Welcome to my portfolio. Im Nima Saeidi ,an inspiring ce student.
 
 I like evering related to programming, Traveling or Photography.
 
-<h2>Technical Skills<h2>
+Technical Skills
 Programming Languages:
 Python
 JavaScript (Node.js, React)
