@@ -4,7 +4,7 @@ title: trying to create a chatbot
 description: my in-progress chatbot
 img:
 importance: 3
-tags: chatbot in-progress
+tags: chatbot in-progress code
 category: extra
 ---
 
