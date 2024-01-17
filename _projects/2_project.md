@@ -6,7 +6,6 @@ img: assets/img/othello-start.png
 importance: 2
 category: work
 tags: game othello c
-giscus_comments: true
 ---
 
 This is my bp project.
@@ -21,4 +20,4 @@ It is othello game coded in c with extra features and encryption.
     picture of have the game looks like
 </div>
 
-for the code check out my github repository
+for the code check out my github repository.
