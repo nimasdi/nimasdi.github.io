@@ -19,9 +19,9 @@ social: true # includes social icons at the bottom of the page
 Hi 👋🏻
 Welcome to my portfolio. Im Nima Saeidi ,an inspiring ce student.
 
-I like evering related to programming, Traveling or Photography.
+I like evering related to Programming, Traveling or Photography.
 
-Technical Skills
+Technical Skills:
 Programming Languages:
 Python
 JavaScript (Node.js, React)
@@ -41,7 +41,7 @@ MongoDB
 Version Control:
 Git
 
-Soft Skills
+Soft Skills:
 Effective Communication
 Team Collaboration
 Time Management
